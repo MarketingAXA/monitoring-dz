@@ -1,4 +1,4 @@
-owner: Marketing AXA DZ
+owner: MarketingAXA
 repo: monitoring-dz
 
 sites:
@@ -18,4 +18,4 @@ status-website:
     - title: État
       href: /
     - title: GitHub
-      href: https://github.com/amine-b/monitoring-axa
+      href: https://github.com/MarketingAXA/monitoring-dz
