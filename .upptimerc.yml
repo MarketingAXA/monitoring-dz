@@ -9,7 +9,7 @@ sites:
     maxResponseTime: 5000
 
 status-website:
-  baseUrl: /monitoring-axa.dz
+  //baseUrl: /monitoring-axa.dz 
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: AXA Monitoring
   introTitle: "**AXA.dz Status Page**"
