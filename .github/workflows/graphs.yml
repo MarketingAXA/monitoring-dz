@@ -18,6 +18,11 @@ name: Graphs CI
 on:
   schedule:
     - cron: "0 0 * * *"
+    
+    permissions:
+  contents: read
+  actions: write
+  
   repository_dispatch:
     types: [graphs]
   workflow_dispatch:
