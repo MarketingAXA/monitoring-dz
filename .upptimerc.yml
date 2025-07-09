@@ -8,8 +8,8 @@ sites:
     expectedStatus: 200
     maxResponseTime: 5000
 
-  - name: AXA DZ - e-Paiement Voyage
-    url: https://voyage.axa.dz
+  - name: AXA DZ - MyAXA
+    url: https://mobile.axa.dz
     method: GET
     expectedStatus: 200
     maxResponseTime: 5000
