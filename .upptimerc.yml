@@ -8,12 +8,6 @@ sites:
     expectedStatus: 200
     maxResponseTime: 5000
 
-  - name: AXA DZ - MyAXA
-    url: https://mobile.axa.dz
-    method: GET
-    expectedStatus: 200
-    maxResponseTime: 5000
-
 status-website:
   baseUrl: /monitoring-dz
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
