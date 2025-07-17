@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.axa.dz.ico",
     "slug": "axa-algerie",
     "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "96.74%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
+    "uptime": "97.24%",
+    "uptimeDay": "79.20%",
+    "uptimeWeek": "97.03%",
+    "uptimeMonth": "97.24%",
+    "uptimeYear": "97.24%",
     "time": 1492,
     "timeDay": 1560,
     "timeWeek": 1649,
     "timeMonth": 1492,
     "timeYear": 1492,
     "dailyMinutesDown": {
-      "2025-07-16": 47
+      "2025-07-17": 228,
+      "2025-07-16": 71
     }
   }
 ]
